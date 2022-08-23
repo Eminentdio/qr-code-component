@@ -1,0 +1,64 @@
+# Frontend Mentor - QR code component solution
+
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+## Table of contents
+
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
+**Note: Delete this note and update the table of contents based on what sections you keep.**
+
+## Overview
+
+### Screenshot
+
+![](./screenshot/Desktop.png)
+![](./screenshot/Mobile.png.png)
+
+
+### Links
+
+- Solution URL: [](eminentdio-qr-code.netlify.app)
+- Live Site URL: [](eminentdio-qr-code.netlify.app)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- Internal CSS
+
+
+### What I learned
+
+I learn how to center a `<div>` on a webpage. But, my problem now is how interact between mobile view styling without affecting the desktop styles.
+
+
+### Continued development
+
+I want to focus more on how to desing mobile view version on my webpage before diving deep into other useful 
+languages for front end development.
+
+
+
+### Useful resource
+I did not make any research during the development of the challenge. I initiated my background knowledge.
+
+## Author
+
+- Frontend Mentor - [](https://www.frontendmentor.io/profile/eminentdio)
+- Twitter - [](https://www.twitter.com/eminentdio)
+
+## Acknowledgments
+
+Thanks to frontend mentor site for innovating this challenges for begiiners
+
